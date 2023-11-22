@@ -1,1 +1,4 @@
-# DEMO
+# To Do List App
+    I developed a user-friendly to-do list app designed for efficient task management. The app allows users to easily add, edit, and prioritize tasks, ensuring a streamlined organization of daily activities. It features a clean and intuitive interface, making task entry and completion straightforward. Additionally, the app includes smart task suggestions, helping users save time when creating new tasks.
+    Real-time collaboration capabilities enable team members to work together on shared projects. The app's visual task management, with drag-and-drop functionality and color-coded labels, enhances user experience. Integration with popular apps and services provides seamless connectivity. Security is a priority, with robust data encryption and optional biometric authentication. 
+    The project reflects a balance of practical functionality and a visually pleasing design, aiming to improve users' productivity and task management experience.
